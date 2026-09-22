@@ -1,6 +1,6 @@
 ## Alice in Cradle fan-made games list ##
 
-> [!NOTE]
+> [!WARNING]
 > The service of this site will be discontinued on January 1, 2027, and the official will no longer help promote any third-party fan games/MODs or similar content.
 
 A Content List featuring fan-made games created by community creators utilizing content from Alice in Cradle.
